@@ -26,4 +26,4 @@ Share some interesting projects.
   - Scraping PDB data with python, the output is usefull to my research.
 
 - [Game: Alien_Invasion](https://github.com/ycheng22/Game_Alien_Invasion)
-  - This is a project from the book: "Eric Matthes - Python Crash Course_2ed".
+  - This is a hands-on project from the book: "Eric Matthes - Python Crash Course_2ed".
