@@ -4,7 +4,7 @@ Share some interesting projects.
 ## DS & ML
 
 - [Predict_Future_Sales](https://github.com/ycheng22/Predict_Future_Sales)
-  - This is a Final project of course: How to Win a Data Science Competition: Learn from Top Kagglers
+  - This is a Final project of course: How to Win a Data Science Competition: Learn from Top Kagglers.
 
 - [Home_Credit_Default_Risk](https://github.com/ycheng22/Home_Credit_Default_Risk)
   - This is a competition from Kaggle, predicting if the client would default or not. 
@@ -18,6 +18,7 @@ Share some interesting projects.
   - Collecting outage data, weather history data and Texas county data and visualize the evolution of outage.
 
 - [EDA on Netflix Movie data](https://github.com/ycheng22/Netflix_viz)
+  - Learning Plotly by exploring the Netflix movie data.
 
 ## Others
 
@@ -25,4 +26,4 @@ Share some interesting projects.
   - Scraping PDB data with python, the output is usefull to my research.
 
 - [Game: Alien_Invasion](https://github.com/ycheng22/Game_Alien_Invasion)
-  - This is a project from the book: "Eric Matthes - Python Crash Course_2ed"
+  - This is a project from the book: "Eric Matthes - Python Crash Course_2ed".
