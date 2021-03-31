@@ -5,7 +5,7 @@ Share some interesting projects
 
 - [Predict_Future_Sales](https://github.com/ycheng22/Predict_Future_Sales)
 - [Home_Credit_Default_Risk](https://github.com/ycheng22/Home_Credit_Default_Risk)
-- [Crack_detection_with_Deep_Learninig](https://github.com/ycheng22/Crack_detection_with_Deep_Learninig)
+- [Crack_Detection_with_Deep_Learninig](https://github.com/ycheng22/Crack_detection_with_Deep_Learninig)
 
 ## Visualization
 
@@ -14,5 +14,5 @@ Share some interesting projects
 
 ## Others
 
-- [Scrape_PDB_data_with_Python](https://github.com/ycheng22/Scrape_PDB_data_with_Python)
+- [Scrape_PDB_Data_with_Python](https://github.com/ycheng22/Scrape_PDB_data_with_Python)
 - [Game: Alien_Invasion](https://github.com/ycheng22/Game_Alien_Invasion)
