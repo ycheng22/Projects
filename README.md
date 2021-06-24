@@ -11,6 +11,9 @@ Share some interesting projects.
 
 - [Crack_Detection_with_Deep_Learninig](https://github.com/ycheng22/Crack_detection_with_Deep_Learninig)
   - This is a course project, detecting concrete cracks from the concrete picture. 
+
+- [Sentiment_Classification_on_Reviews](https://github.com/ycheng22/Sentiment_Classification_on_Reviews)
+  - This is a project about sentiment classification on reviews. 
  
 ## Visualization
 
