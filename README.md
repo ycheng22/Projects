@@ -26,7 +26,8 @@ Share some interesting projects.
 - [EDA on Netflix Movie data](https://github.com/ycheng22/Netflix_viz)
   - Learning Plotly by exploring the Netflix movie data.
 
-## [The Python Mega Course: Build 10 Real World Applications](https://github.com/ycheng22/Build_10_Real_World_Applicatoins)
+## Applications 
+- [The Python Mega Course: Build 10 Real World Applications](https://github.com/ycheng22/Build_10_Real_World_Applicatoins)
   - Building some real world applications with python, a course on Udemy.
 
 ## Others
