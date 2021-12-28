@@ -17,10 +17,10 @@ Share some interesting projects.
  
 ## Visualization
 
-- [Visualize Texas Outage in Feb.2021](https://github.com/ycheng22/Visualize_Texas_Outage)
+- [Tableau: Visualize Texas Outage in Feb.2021](https://github.com/ycheng22/Visualize_Texas_Outage)
   - Collecting outage data, weather history data and Texas county data and visualize the evolution of outage.
  
-- [2020 Houston Flights Delay Dashborad](https://github.com/ycheng22/Viz_Filights_Delay_with_Bokeh)
+- [Bokeh: 2020 Houston Flights Delay Dashborad](https://github.com/ycheng22/Viz_Filights_Delay_with_Bokeh)
   - Creating interactive dashboard with Bokeh and Python.
 
 ~~- [EDA on Netflix Movie data](https://github.com/ycheng22/Netflix_viz)~~
