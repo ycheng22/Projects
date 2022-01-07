@@ -29,6 +29,8 @@ Share some interesting projects.
 ## Applications 
 - [The Python Mega Course: Build 10 Real World Applications](https://github.com/ycheng22/Build_10_Real_World_Applicatoins)
   - Building some real world applications with python, a course on [Udemy](https://www.udemy.com/course/the-python-mega-course/).
+- [Blood Pressure Recorder Mobile App](https://github.com/ycheng22/Blood_Pressure_Recorder_Mobile_App)
+  - A mobile APP to recognize picture of blood pressure monitor and store the data to sqlite3 database. The use can view, add, edit the records.
 
 ## Others
 
