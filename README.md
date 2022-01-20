@@ -32,6 +32,8 @@ Share some interesting projects.
   ~~- Learning Plotly by exploring the Netflix movie data.~~
 
 ## Applications 
+- [Full Stack Restaurant Web](https://github.com/ycheng22/Courses_/upload/main/Full-Stack%20Web%20Dev%20with%20React/Projects)
+  - Developing frontend web with React, building full-fledged REST API server with Express, interacting with the MongoDB server 
 - [The Python Mega Course: Build 10 Real World Applications](https://github.com/ycheng22/Build_10_Real_World_Applicatoins)
   - Building some real world applications with python, a course on [Udemy](https://www.udemy.com/course/the-python-mega-course/).
 - [Blood Pressure Recorder Mobile App](https://github.com/ycheng22/Blood_Pressure_Recorder_Mobile_App)
