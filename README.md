@@ -45,7 +45,7 @@ Share some interesting projects.
 - [Scrape_PDB_Data_with_Python](https://github.com/ycheng22/Scrape_PDB_data_with_Python)
   - Scraping PDB data with python, the output is usefull to my research.
  
-- [Scrape_Chegg_Questions](https://github.com/ycheng22/Scrape_Chegg.com)
+- [Scraping Chegg Questions](https://github.com/ycheng22/Scrape_Chegg.com)
   - Scraping questions on [Chegg](https://www.chegg.com/homework-help/questions-and-answers/physics-archive-2021-april) to check the availability of some questions. 
 
 - [Game: Alien_Invasion](https://github.com/ycheng22/Game_Alien_Invasion)
