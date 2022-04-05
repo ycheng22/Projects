@@ -14,7 +14,7 @@ Share some interesting projects.
 
 - [Sentiment_Classification_on_Reviews](https://github.com/ycheng22/Sentiment_Classification_on_Reviews)
   - This is a project about sentiment classification on reviews. 
-- [Practicing SQL questions]
+- Practicing SQL questions
   - [SQL on LeetCode](https://ycheng22.github.io/SQL_on_LeetCode/)
   - [SQL on HackerRank](https://ycheng22.github.io/blog/SQL_on_HackerRank/)
  
