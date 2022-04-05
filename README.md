@@ -31,8 +31,8 @@ Share some interesting projects.
   - Creating interactive dashboard with Bokeh and Python.
   - [Dashboard on Heroku](https://github.com/ycheng22/Viz_Filights_Delay_with_Bokeh)
 
-~~- [EDA on Netflix Movie data](https://github.com/ycheng22/Netflix_viz)~~
-  ~~- Learning Plotly by exploring the Netflix movie data.~~
+<!-- ~~- [EDA on Netflix Movie data](https://github.com/ycheng22/Netflix_viz)~~
+  ~~- Learning Plotly by exploring the Netflix movie data.~~ -->
 
 ## Applications 
 - [Full Stack Restaurant Web](https://github.com/ycheng22/Courses_/upload/main/Full-Stack%20Web%20Dev%20with%20React/Projects)
