@@ -44,7 +44,7 @@ Share some interesting projects.
 - [Explore_Python_Packages](https://github.com/ycheng22/Explore_Python_Packages)
   - Exploring and learning some python packages.
 
-- [Scrape_PDB_Data_with_Python](https://github.com/ycheng22/Scrape_PDB_data_with_Python)
+- [Scraping PDB Data with Python](https://github.com/ycheng22/Scrape_PDB_data_with_Python)
   - Scraping PDB data with python, the output is usefull to my research.
  
 - [Scraping Chegg Questions](https://github.com/ycheng22/Scrape_Chegg.com)
