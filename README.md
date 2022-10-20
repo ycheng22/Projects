@@ -6,8 +6,12 @@ Share some interesting projects.
 - [Predict_Future_Sales](https://github.com/ycheng22/Predict_Future_Sales)
   - This is a Final project of course: How to Win a Data Science Competition: Learn from Top Kagglers.
 
-- [Home_Credit_Default_Risk](https://github.com/ycheng22/Home_Credit_Default_Risk)
+- [**Home_Credit_Default_Risk**](https://github.com/ycheng22/Home_Credit_Default_Risk)
   - This is a competition from Kaggle, predicting if the client would default or not. 
+  
+- [**Traffic Accident Prediction**](https://github.com/ycheng22/OMSCS_Courses/tree/main/CSE%206242%20Data%20and%20Visual%20Analytics/Group%20Project)
+  - This is a group project from course **Data and Visual Analytics**, predicting the probability of accident occurrence and severity based on US traffic data. it's deployed on Heroku.
+ 
 
 - [Crack_Detection_with_Deep_Learninig](https://github.com/ycheng22/Crack_detection_with_Deep_Learninig)
   - This is a course project, detecting concrete cracks from the concrete picture. 
@@ -41,6 +45,8 @@ Share some interesting projects.
   - Building some real world applications with python, a course on [Udemy](https://www.udemy.com/course/the-python-mega-course/).
 - [Blood Pressure Recorder Mobile App](https://github.com/ycheng22/Blood_Pressure_Recorder_Mobile_App)
   - A mobile APP to recognize picture of blood pressure monitor and store the data to sqlite3 database. The use can view, add, edit the records.
+- [**Job Comparison Android App**]()
+  - A
 
 ## Others
 
