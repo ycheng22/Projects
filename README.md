@@ -3,10 +3,10 @@ Share some interesting projects.
 
 ## DS & ML
 
-- [`Predict_Future_Sales`](https://github.com/ycheng22/Predict_Future_Sales)
+- [Predict_Future_Sales](https://github.com/ycheng22/Predict_Future_Sales)
   - This is a Final project of course: How to Win a Data Science Competition: Learn from Top Kagglers.
 
-- [**Home_Credit_Default_Risk**](https://github.com/ycheng22/Home_Credit_Default_Risk)
+- [`**Home_Credit_Default_Risk**`](https://github.com/ycheng22/Home_Credit_Default_Risk)
   - This is a competition from Kaggle, predicting if the client would default or not. 
   
 - [**Traffic Accident Prediction**](https://github.com/ycheng22/OMSCS_Courses/tree/main/CSE%206242%20Data%20and%20Visual%20Analytics/Group%20Project)
